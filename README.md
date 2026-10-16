@@ -1,5 +1,7 @@
 # csv-peek
 
+[English](README.md) | [简体中文](README.zh.md) | [日本語](README.ja.md)
+
 **Profile any CSV/TSV from your terminal — before you load it into pandas or SQL.**
 
 Zero dependencies. Python 3.8+ standard library only. One file, ~140 lines.
